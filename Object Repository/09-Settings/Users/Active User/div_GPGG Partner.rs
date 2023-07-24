@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GPGG Partner</name>
+   <tag></tag>
+   <elementGuidId>799d87c8-aecc-48d1-a1d5-b19c521d9ea3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'GPGG Partner' or . = 'GPGG Partner')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/div/div/div[3]/mat-drawer-container/mat-drawer-content/app-user-table/div[2]/perfect-scrollbar/div/div/td-data-table/div/table/tbody/tr[5]/td/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ed6b5dee-8c09-4e84-bf05-bc9485387284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>td-data-table-cell-content-wrapper</value>
+      <webElementGuid>83d44218-89be-499f-9864-d4bae3366011</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GPGG Partner</value>
+      <webElementGuid>da420743-4a21-4772-9c87-ddd67aa4d20f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-0&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c361-48 ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;white-container ng-tns-c635-37&quot;]/div[@class=&quot;user-container-body ng-tns-c635-37&quot;]/mat-drawer-container[@class=&quot;mat-drawer-container ng-tns-c635-37&quot;]/mat-drawer-content[@class=&quot;mat-drawer-content&quot;]/app-user-table[1]/div[@class=&quot;container-body&quot;]/perfect-scrollbar[1]/div[@class=&quot;ps&quot;]/div[@class=&quot;ps-content&quot;]/td-data-table[@class=&quot;ng-untouched ng-valid ng-dirty&quot;]/div[@class=&quot;td-data-table-scrollable&quot;]/table[@class=&quot;td-data-table&quot;]/tbody[@class=&quot;td-data-table-body&quot;]/tr[@class=&quot;td-data-table-row ng-star-inserted&quot;]/td[@class=&quot;td-data-table-cell ng-star-inserted&quot;]/div[@class=&quot;td-data-table-cell-content-wrapper&quot;]</value>
+      <webElementGuid>773ea171-e658-4d33-a3b7-7e1a3af16760</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/div/div/div[3]/mat-drawer-container/mat-drawer-content/app-user-table/div[2]/perfect-scrollbar/div/div/td-data-table/div/table/tbody/tr[5]/td/div</value>
+      <webElementGuid>0ab95d05-bc08-4538-acb6-a42a61116ae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='..'])[4]/following::div[7]</value>
+      <webElementGuid>bde930b9-4df6-44c0-b89d-4985e1345caa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[4]/following::div[8]</value>
+      <webElementGuid>2de9788f-7876-4416-9342-c47f24bc85b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td/div</value>
+      <webElementGuid>ca4828f9-5535-495f-8020-cf9f21007de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'GPGG Partner' or . = 'GPGG Partner')]</value>
+      <webElementGuid>39e6f945-1f5a-4800-a254-ad06698f791a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

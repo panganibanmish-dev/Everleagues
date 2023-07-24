@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_create</name>
+   <tag></tag>
+   <elementGuidId>7fab5d1b-171d-4114-932c-cf979bc8431c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//mat-icon[text()='create'])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//mat-icon[@role = 'img' and @class = 'mat-icon notranslate suffix-icon material-icons mat-icon-no-color ng-star-inserted' and (text() = 'create' or . = 'create')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-icon.mat-icon.notranslate.suffix-icon.material-icons.mat-icon-no-color.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>38ce14b9-d68a-4609-81d4-b2cc0955d215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5e92866e-ded8-48fe-85ed-056d0b546af1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate suffix-icon material-icons mat-icon-no-color ng-star-inserted</value>
+      <webElementGuid>9f4e47ac-e6cf-4f6d-b036-dfe5cfcc3fbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>eadeec00-d6b8-4583-af61-5cd4c4912fbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>create</value>
+      <webElementGuid>1b6c2726-31bd-4893-b3dd-f42f8d0df2f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;input-select-ou-0&quot;)/div[@class=&quot;ng-pristine ng-valid ng-touched&quot;]/mat-icon[@class=&quot;mat-icon notranslate suffix-icon material-icons mat-icon-no-color ng-star-inserted&quot;]</value>
+      <webElementGuid>a604311f-c2df-43db-905b-bf4eccfc648c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//input-select-ou[@id='input-select-ou-0']/div/mat-icon</value>
+      <webElementGuid>45a97402-df09-458d-ba03-012834649b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[2]/following::mat-icon[1]</value>
+      <webElementGuid>dce80afa-cad6-42ba-8125-dec33f86045b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Organization Unit'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>84ff54d2-282e-4134-9c9f-fec9555f7cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parent Organization Unit Name'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>9fdbf493-5564-411b-93d6-4b2ee29a72dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Unit Name'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>7f89a9d7-b339-4abe-93bd-93e4e7ffb923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input-select-ou/div/mat-icon</value>
+      <webElementGuid>feb25c4a-466a-45f6-ba99-985a12b75e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'create' or . = 'create')]</value>
+      <webElementGuid>938252d5-902a-4958-a89f-8714978b2d95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

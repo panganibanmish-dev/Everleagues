@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-error_Enter a valid email</name>
+   <tag></tag>
+   <elementGuidId>97cf8ca3-e4a0-4462-8bdb-91f09308f4ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-error-30</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-error[text()='Enter a valid email']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//mat-error[@role = 'alert' and (text() = 'Enter a valid email' or . = 'Enter a valid email')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-error</value>
+      <webElementGuid>30b7e9da-a45e-4232-bf76-4779420bbfab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>b0ee09c6-e328-456d-86b1-10dcd3c36cac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-error ng-tns-c110-114 ng-star-inserted</value>
+      <webElementGuid>edec576d-cdea-4c8a-ab04-48db426a82e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-error-30</value>
+      <webElementGuid>0159d59a-8e25-4e99-87c3-82d9644eefc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter a valid email</value>
+      <webElementGuid>8b17b110-5520-45d2-844a-b19fe5653ae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-error-30&quot;)</value>
+      <webElementGuid>98a1eabe-1b0c-4c31-a03c-04319b0c491e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id='mat-error-30']</value>
+      <webElementGuid>951fe279-d8aa-4712-9ca9-5d42cc4fda65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Guests'])[1]/following::mat-error[1]</value>
+      <webElementGuid>50eebcb8-eec5-4857-af26-993de9474129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bringing your old and new contacts together!'])[1]/preceding::mat-error[1]</value>
+      <webElementGuid>59309119-8d67-41e0-a267-ef80a1ee2267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create meeting'])[1]/preceding::mat-error[1]</value>
+      <webElementGuid>6d3c5ebe-faaf-4bff-ae87-1b8951cd0d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enter a valid email']/parent::*</value>
+      <webElementGuid>bcc654ea-d8cf-4f3d-830a-a35349154dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-error</value>
+      <webElementGuid>6eb7bdc4-84c4-434e-b6ed-f8bf7ff857fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id = 'mat-error-30' and (text() = 'Enter a valid email' or . = 'Enter a valid email')]</value>
+      <webElementGuid>f70bf7ae-90fc-4253-9e1e-29b60d5b5d13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

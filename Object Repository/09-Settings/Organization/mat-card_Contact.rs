@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-card_Contact</name>
+   <tag></tag>
+   <elementGuidId>05d69fac-1ed0-4791-bfb4-c08cd5f6d651</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//mat-card[contains(@class,'mat-card mat-focus-indicator')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//mat-card[(text() = 'ContactEmailWeb+93Phone+93Fax' or . = 'ContactEmailWeb+93Phone+93Fax')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-card</value>
+      <webElementGuid>409fc74a-09ed-48f0-8059-f394cf9d17a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-card mat-focus-indicator ng-tns-c649-37</value>
+      <webElementGuid>b33d8f5b-5ec3-45cc-9d0e-504324966898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ContactEmailWeb+93Phone+93Fax</value>
+      <webElementGuid>b49058bc-73e1-48fc-ac90-0b066edcb21d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-0&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c361-52 ng-trigger ng-trigger-translateTab&quot;]/section[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c649-37&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator ng-tns-c649-37&quot;]</value>
+      <webElementGuid>7068c6c3-0d66-4b6d-b135-e176f2966ad7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/section/div/mat-card[2]</value>
+      <webElementGuid>70a6abaa-bf46-44dc-ae96-ed920ca27cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Number'])[1]/following::mat-card[1]</value>
+      <webElementGuid>d219a4d7-09de-42a8-a3a4-302a901b79a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Industry'])[1]/following::mat-card[1]</value>
+      <webElementGuid>67917c86-136c-47b0-a217-0d0b27ea370c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-card[2]</value>
+      <webElementGuid>3262254f-2611-4b6c-a1f6-cc34f40b9009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-card[(text() = 'ContactEmailWeb+93Phone+93Fax' or . = 'ContactEmailWeb+93Phone+93Fax')]</value>
+      <webElementGuid>7bb09e25-58f0-47d2-aa16-eff80fa6ada7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_upload_mat-checkbox</name>
+   <tag></tag>
+   <elementGuidId>fd21fac0-f54c-431c-acdf-734741f7031c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-checkbox-16 > label.mat-checkbox-layout > div.mat-checkbox-inner-container.mat-checkbox-inner-container-no-side-margin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[4]/td[3]/mat-checkbox/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8f09a281-29ae-48df-aa70-4c9cd02797cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-checkbox-inner-container mat-checkbox-inner-container-no-side-margin</value>
+      <webElementGuid>df13b555-75a4-40b6-8e7a-1627fc97aa99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-checkbox-16&quot;)/label[@class=&quot;mat-checkbox-layout&quot;]/div[@class=&quot;mat-checkbox-inner-container mat-checkbox-inner-container-no-side-margin&quot;]</value>
+      <webElementGuid>c817a8bc-dc56-47ec-840e-6dc47f20ca87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-checkbox[@id='mat-checkbox-16']/label/div</value>
+      <webElementGuid>5c2ded9e-8879-409d-b72c-860bf41c78a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide Quick Shortcuts'])[1]/preceding::div[8]</value>
+      <webElementGuid>1bc0604f-c184-41cd-83bf-0945cb194484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[3]/mat-checkbox/label/div</value>
+      <webElementGuid>8907dd2b-0bde-4bcf-a60b-4753c4229ace</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

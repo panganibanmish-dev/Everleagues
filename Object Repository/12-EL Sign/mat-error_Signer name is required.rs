@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-error_Signer name is required</name>
+   <tag></tag>
+   <elementGuidId>33c46be0-0857-4a85-96c2-b1428f2692ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-error[text()=' Signer name is required ']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-error-4</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//mat-error[@role = 'alert' and (text() = ' Signer name is required ' or . = ' Signer name is required ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-error</value>
+      <webElementGuid>84011be3-4dc2-411a-9a5c-bc9d73b324d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>ca3f2205-7be4-45aa-9282-d0fadee6236f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-error ng-tns-c110-69 ng-star-inserted</value>
+      <webElementGuid>90817713-0af1-4903-ab2f-8e20e8803d2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-error-4</value>
+      <webElementGuid>732f872e-b329-42a3-8ddc-7ad60b23df51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Signer name is required </value>
+      <webElementGuid>730b789c-ca16-4d89-bd97-b2f49da02ded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-error-4&quot;)</value>
+      <webElementGuid>ce96cbe2-755d-49ca-b7d4-136085c40177</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id='mat-error-4']</value>
+      <webElementGuid>fb2aa855-f1dc-4d29-b2a8-9e73b8988dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-3']/app-addupdatesigners/div/div/form/mat-form-field/div/div[2]/div/mat-error</value>
+      <webElementGuid>76916be0-3a26-443a-ad4a-cc66856cc76f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search for a Signer'])[1]/following::mat-error[1]</value>
+      <webElementGuid>00b29fb6-1e1d-4ce1-9648-3572fea3d244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receiver email address'])[1]/preceding::mat-error[1]</value>
+      <webElementGuid>074ff45b-d9b3-4d19-9058-55b73de3fa8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address is required'])[1]/preceding::mat-error[1]</value>
+      <webElementGuid>9f08234d-608a-4f9d-91ab-02b7ab23c0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Signer name is required']/parent::*</value>
+      <webElementGuid>3fc89e7e-87bd-48de-97b0-f68c10af5f93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-error</value>
+      <webElementGuid>76136480-7c0a-42fd-a143-06f44ca0ffa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id = 'mat-error-4' and (text() = ' Signer name is required ' or . = ' Signer name is required ')]</value>
+      <webElementGuid>bd293ba4-f0db-45c0-8dc0-f9843b5d6b49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

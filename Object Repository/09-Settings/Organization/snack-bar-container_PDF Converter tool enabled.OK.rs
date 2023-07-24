@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>snack-bar-container_PDF Converter tool enabled.OK</name>
+   <tag></tag>
+   <elementGuidId>2a9f12da-ae03-4365-ad87-4959402ddb2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-23']/snack-bar-container</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//snack-bar-container[(text() = 'PDF Converter tool enabled.OK' or . = 'PDF Converter tool enabled.OK')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>snack-bar-container.mat-snack-bar-container.ng-tns-c41-141.ng-trigger.ng-trigger-state.mat-snack-bar-center.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>snack-bar-container</value>
+      <webElementGuid>84416c0e-8a63-455e-be33-39e65340c4d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-snack-bar-container ng-tns-c41-141 ng-trigger ng-trigger-state mat-snack-bar-center ng-star-inserted</value>
+      <webElementGuid>a369fb00-c215-46a7-abfa-c5b77853b3a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>status</value>
+      <webElementGuid>e189048d-1b81-415d-8b40-fe95bb4f6f22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PDF Converter tool enabled.OK</value>
+      <webElementGuid>e84d83bb-4f96-4257-9005-0515ee2ca66f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-23&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c41-141 ng-trigger ng-trigger-state mat-snack-bar-center ng-star-inserted&quot;]</value>
+      <webElementGuid>8cafaa2d-8811-4bd0-a160-ef14d88be11d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-23']/snack-bar-container</value>
+      <webElementGuid>3d7c8024-6c8e-4ecc-aa64-c73e7ecca84e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit image'])[1]/following::snack-bar-container[1]</value>
+      <webElementGuid>c8fda6b8-39ca-44a2-85f2-606aca876a36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Assignment'])[2]/following::snack-bar-container[1]</value>
+      <webElementGuid>464c8b85-85e3-48ba-9f06-fe67d9147bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//snack-bar-container</value>
+      <webElementGuid>d710b8a2-c632-4839-a167-d88cf8a37455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//snack-bar-container[(text() = 'PDF Converter tool enabled.OK' or . = 'PDF Converter tool enabled.OK')]</value>
+      <webElementGuid>adb5198c-b5e2-46d2-9760-1e5d32590aa5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

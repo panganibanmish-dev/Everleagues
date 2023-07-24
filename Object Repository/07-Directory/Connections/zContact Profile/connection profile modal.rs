@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>connection profile modal</name>
+   <tag></tag>
+   <elementGuidId>a386895b-ed4a-4e91-a9d2-861eec2cfdc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'ng-star-inserted' and (text() = ' create GAFirst Name *Last Name *maildeletesavecancelGeneralOrganization mail TypeEmailremove_circle_outlineadd_circle_outline phone Type+1remove_circle_outlineadd_circle_outlinelabelSelect Labels... Create New Label  description NotesplaceAuto street 1Auto street 254321 Auto cityAuto stateAuto countryWorkeditremove_circle_outlineAdd Address' or . = ' create GAFirst Name *Last Name *maildeletesavecancelGeneralOrganization mail TypeEmailremove_circle_outlineadd_circle_outline phone Type+1remove_circle_outlineadd_circle_outlinelabelSelect Labels... Create New Label  description NotesplaceAuto street 1Auto street 254321 Auto cityAuto stateAuto countryWorkeditremove_circle_outlineAdd Address')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.ng-untouched.ng-pristine.ng-valid > div.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/app-main-page/mat-sidenav-container/mat-sidenav-content/div[2]/app-directory-contacts/section/article/mat-sidenav-container/mat-sidenav-content/div/perfect-scrollbar/div/div[1]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5027e9d9-367c-4e38-8b2d-6093732c2e45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayout</name>
+      <type>Main</type>
+      <value>column</value>
+      <webElementGuid>5ec53719-91be-4786-a37b-6d3aea545f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxlayoutalign</name>
+      <type>Main</type>
+      <value>space-between stretch</value>
+      <webElementGuid>4cbb149d-58c0-4780-a965-e12d158396fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-fx-layout</name>
+      <type>Main</type>
+      <value>column</value>
+      <webElementGuid>684d4af1-e3f6-481f-a6f5-c406404324d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-fx-layout-align</name>
+      <type>Main</type>
+      <value>space-between stretch</value>
+      <webElementGuid>38d1d526-0726-43b3-92e6-fa6ec3d7ef68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>e40dedcc-5528-42c3-bd6f-0a177f1655c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> create GAFirst Name *Last Name *maildeletesavecancelGeneralOrganization mail TypeEmailremove_circle_outlineadd_circle_outline phone Type+1remove_circle_outlineadd_circle_outlinelabelSelect Labels... Create New Label  description NotesplaceAuto street 1Auto street 254321 Auto cityAuto stateAuto countryWorkeditremove_circle_outlineAdd Address</value>
+      <webElementGuid>72ba0808-e3f9-4e4a-9325-85d796df17e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main-page[@class=&quot;ng-tns-c479-5 ng-trigger ng-trigger-routerAnimation ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container ng-tns-c479-5 mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/div[@class=&quot;wrapper thin-margin&quot;]/app-directory-contacts[@class=&quot;ng-tns-c665-37 ng-trigger ng-trigger-routerAnimation ng-star-inserted&quot;]/section[@class=&quot;ng-tns-c665-37&quot;]/article[@class=&quot;directory-container ng-tns-c665-37&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container ng-tns-c665-37&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/div[@class=&quot;contact-details-body&quot;]/perfect-scrollbar[@class=&quot;perfect-scrollbar ng-tns-c665-37&quot;]/div[@class=&quot;ps ps--active-y&quot;]/div[@class=&quot;ps-content&quot;]/div[@class=&quot;contact-profile-container ng-tns-c665-37 ng-star-inserted&quot;]/app-directory-contact-profile[@class=&quot;ng-tns-c665-37&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>d18716a0-b13b-4171-aab7-e974605df695</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='none'])[1]/following::div[11]</value>
+      <webElementGuid>0d541c75-7743-4c02-a60d-b18a45869740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GG tester 2'])[1]/following::div[12]</value>
+      <webElementGuid>d54a7533-6630-432e-9a40-ee56f618317c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>265d1c86-02b3-49d2-898b-cd3faf3482b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' create GAFirst Name *Last Name *maildeletesavecancelGeneralOrganization mail TypeEmailremove_circle_outlineadd_circle_outline phone Type+1remove_circle_outlineadd_circle_outlinelabelSelect Labels... Create New Label  description NotesplaceAuto street 1Auto street 254321 Auto cityAuto stateAuto countryWorkeditremove_circle_outlineAdd Address' or . = ' create GAFirst Name *Last Name *maildeletesavecancelGeneralOrganization mail TypeEmailremove_circle_outlineadd_circle_outline phone Type+1remove_circle_outlineadd_circle_outlinelabelSelect Labels... Create New Label  description NotesplaceAuto street 1Auto street 254321 Auto cityAuto stateAuto countryWorkeditremove_circle_outlineAdd Address')]</value>
+      <webElementGuid>60edbd61-e9cf-4ac7-a1a2-cf5303dd5f47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

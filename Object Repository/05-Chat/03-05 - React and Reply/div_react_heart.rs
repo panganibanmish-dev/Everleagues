@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_react_heart</name>
+   <tag></tag>
+   <elementGuidId>e802a4ce-6a61-4ecf-bffc-fd40db682395</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.reactions-container</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'reactions-container' and (text() = '💖 1' or . = '💖 1')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(),'💖 1')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>af5e66b7-392b-49a0-ab98-0a982fe8590a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>reactions-container</value>
+      <webElementGuid>882210fc-3567-40a1-a527-47e770983e04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>💖 1</value>
+      <webElementGuid>e0952c7b-fb81-4534-9237-443087c74292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;msgid-1665998083630&quot;)/ui-chat-message[@class=&quot;ng-tns-c551-88&quot;]/div[@class=&quot;self ng-star-inserted&quot;]/app-msg-reactions[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;reactions-container&quot;]</value>
+      <webElementGuid>b9b911d1-4c89-4884-a86d-06d8edaaf7ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='msgid-1665998083630']/ui-chat-message/div/app-msg-reactions/div</value>
+      <webElementGuid>5535c8f7-152c-400f-9698-8f3d66f0e921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing automation'])[1]/following::div[4]</value>
+      <webElementGuid>4856a775-cf3b-4139-b7d5-2fba6f05f5e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You'])[2]/following::div[7]</value>
+      <webElementGuid>920576a0-9a19-4b6e-b14b-e2016adf0823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You'])[3]/preceding::div[3]</value>
+      <webElementGuid>fbbd560b-dfe6-49a8-ab1e-b28463ada09b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-msg-reactions/div</value>
+      <webElementGuid>bab6a187-edf7-42a7-957e-75396be5e383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '💖 1' or . = '💖 1')]</value>
+      <webElementGuid>b22d8db8-5179-4b9f-acb3-a9c0352077dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

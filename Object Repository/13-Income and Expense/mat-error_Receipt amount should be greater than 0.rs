@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-error_Receipt amount should be greater than 0</name>
+   <tag></tag>
+   <elementGuidId>0c87b149-16be-4731-b32c-298df83566f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-error[text()=' Receipt amount should be greater than 0 ']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//mat-error[@role = 'alert' and (text() = ' Receipt amount should be greater than 0 ' or . = ' Receipt amount should be greater than 0 ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-error-24</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-error</value>
+      <webElementGuid>bfc2ed67-787b-421d-9d82-9e5efaedb3d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>4d8931eb-a9ad-469b-a013-3e99a63e9bc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-error ng-star-inserted</value>
+      <webElementGuid>9c734c09-0287-4d56-a86c-632f0f4732a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-error-24</value>
+      <webElementGuid>c7aa2e2a-4354-43c0-b9aa-81e1d06b983c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Receipt amount should be greater than 0 </value>
+      <webElementGuid>ebe0c2e7-79d6-4d13-b7b7-8a246088bc99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-error-24&quot;)</value>
+      <webElementGuid>1ce126a8-163f-4c14-8b54-226c6b9c4ec2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id='mat-error-24']</value>
+      <webElementGuid>b38ee2f0-f001-4ba6-a903-c8c35cf22d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-21']/app-iet-addreceipt/div/div/form/mat-form-field[4]/div/div[2]/div/mat-error</value>
+      <webElementGuid>d41a1180-4253-42d8-9b33-c7c563b83e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::mat-error[1]</value>
+      <webElementGuid>5a7bf601-66c5-4cdc-937f-01bad104066f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount'])[1]/following::mat-error[1]</value>
+      <webElementGuid>ec6af4d5-cf10-422d-9627-a5876eb8f664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Required'])[1]/preceding::mat-error[1]</value>
+      <webElementGuid>44c15c0a-42e6-46b7-9609-e61895a554ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Receipt amount should be greater than 0']/parent::*</value>
+      <webElementGuid>77e75a64-3397-4c8c-9a07-9beba15a3be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-error</value>
+      <webElementGuid>a226ac52-e083-461a-a6aa-fb0730a67a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id = 'mat-error-24' and (text() = ' Receipt amount should be greater than 0 ' or . = ' Receipt amount should be greater than 0 ')]</value>
+      <webElementGuid>a75b36fe-0779-460c-a3f1-b27c7ef2aff6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

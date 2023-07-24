@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_edit</name>
+   <tag></tag>
+   <elementGuidId>eb472654-e95e-4057-ac8b-88fd8506d02c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-3']/app-iet-addreceipt/div/div/div[2]/div/span[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-icon-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[(text() = 'edit' or . = 'edit')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>88e6a6c4-89ea-40d2-ac57-544b689bb657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-icon-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>0e6a6d3e-7690-4036-9d56-50f076646117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>edit</value>
+      <webElementGuid>4a84a1cd-13ac-48c7-9e22-ae8f9745ce59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main-page[@class=&quot;ng-tns-c481-5 ng-trigger ng-trigger-routerAnimation ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container ng-tns-c481-5 mat-drawer-transition mat-drawer-container-has-open&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/div[@class=&quot;wrapper&quot;]/app-iet-viewreport[@class=&quot;ng-star-inserted&quot;]/div[2]/ag-grid-angular[@class=&quot;ag-theme-balham&quot;]/div[@class=&quot;ag-root-wrapper ag-layout-normal ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-normal&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal ag-has-focus&quot;]/div[@class=&quot;ag-body-viewport ag-layout-normal ag-row-no-animation&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row ag-row-even ag-row-level-0 ag-row-position-absolute ag-row-first ag-row-last ag-row-focus ag-row-hover&quot;]/div[@class=&quot;ag-cell ag-cell-not-inline-editing ag-cell-with-height ag-cell-value ag-column-hover ag-cell-focus&quot;]/app-button-renderer[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-icon-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>2f2fdb8e-0fc6-4608-ba9c-dacab200d920</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receipt Note'])[1]/following::button[3]</value>
+      <webElementGuid>45cde902-f5d2-4606-84af-9c18608e2c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$300.00'])[1]/following::button[3]</value>
+      <webElementGuid>1783c6ee-693f-4224-b475-708fe5f6b635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/app-button-renderer/button</value>
+      <webElementGuid>a634fd7c-85bf-49db-90eb-b2859f001e83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'edit' or . = 'edit')]</value>
+      <webElementGuid>4c402179-7909-4302-b115-b3e2122a5b10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

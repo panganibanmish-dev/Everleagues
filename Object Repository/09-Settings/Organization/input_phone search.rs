@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_phone search</name>
+   <tag></tag>
+   <elementGuidId>9c4a52a9-933b-4db2-afb8-8bd0b930633f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.country-search.ng-untouched.ng-pristine.ng-valid.ng-tns-c98-50.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder='Search ...']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8893d5a1-a85e-411c-9b50-1b44290e6302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ef2c0949-2325-43bf-b86f-e69a1e53787c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>country-search ng-untouched ng-pristine ng-valid ng-tns-c98-50 ng-star-inserted</value>
+      <webElementGuid>cb4908aa-603e-4b9d-97a0-cb7fd0de4565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search ...</value>
+      <webElementGuid>e578f3b4-c994-4e89-b2d1-7251fceda026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-7&quot;)/div[@class=&quot;mat-menu-content ng-tns-c98-50&quot;]/input[@class=&quot;country-search ng-untouched ng-pristine ng-valid ng-tns-c98-50 ng-star-inserted&quot;]</value>
+      <webElementGuid>66f4c576-bfbc-4747-81d9-d29c78674a9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>e1ed9036-f34c-4b03-ae48-ad074f12acd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-7']/div/input</value>
+      <webElementGuid>88904940-8704-42a0-9a1b-9c106c3d14ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/input</value>
+      <webElementGuid>819383a3-0ff8-45ec-a696-c22f567b43b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search ...']</value>
+      <webElementGuid>d8b38f88-539e-4c52-946c-25e775c4c9c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

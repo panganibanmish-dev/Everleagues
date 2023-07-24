@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-error_Company name is required</name>
+   <tag></tag>
+   <elementGuidId>6478b727-86a3-4825-8178-981518feae9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-error[text()=' Company name is required ']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//mat-error[@role = 'alert' and (text() = ' Company name is required ' or . = ' Company name is required ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-error-9</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-error</value>
+      <webElementGuid>d0bad11b-d421-4c2a-8be2-06c34d869641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>aabe7be7-33e9-4caa-9467-38df6b1e20d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-error ng-tns-c110-168 ng-star-inserted</value>
+      <webElementGuid>3db212c3-86bd-46ef-9623-034c1010fd82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-error-9</value>
+      <webElementGuid>6e556549-14d6-4e98-9df4-4b8e6ab8ab04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Company name is required </value>
+      <webElementGuid>256ba7e1-db36-43c6-8730-abbb337456ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-error-9&quot;)</value>
+      <webElementGuid>4c9dddb0-7e74-486c-b190-6d2d72f97f30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id='mat-error-9']</value>
+      <webElementGuid>243ebfe6-24e6-49ae-ae54-2dc21108fa8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-17']/app-iet-company/div/div/form/mat-form-field/div/div[2]/div/mat-error</value>
+      <webElementGuid>b47b6e33-ab83-4cbf-84ff-edec80e9cdc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Name'])[1]/following::mat-error[1]</value>
+      <webElementGuid>ae4d9195-3e43-40ff-9f6b-6b0679c6e707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Company'])[1]/following::mat-error[1]</value>
+      <webElementGuid>9bdeaa91-7cce-4a43-bc9f-c7e8f945080f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Type'])[1]/preceding::mat-error[1]</value>
+      <webElementGuid>da5c9570-4c12-4a85-aeba-6f2fb9601b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End of December'])[1]/preceding::mat-error[1]</value>
+      <webElementGuid>7d000215-5f66-45d0-b8bf-5bf5e3953098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Company name is required']/parent::*</value>
+      <webElementGuid>2d620eb9-b355-4c01-ace0-efb8de85e0c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-error</value>
+      <webElementGuid>acf90e13-ed19-4af8-86ef-bc2530aedc05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id = 'mat-error-9' and (text() = ' Company name is required ' or . = ' Company name is required ')]</value>
+      <webElementGuid>d1a6716d-1b1d-437e-b018-6deedff31ffd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

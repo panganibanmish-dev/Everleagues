@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-checkbox-Save all to contacts</name>
+   <tag></tag>
+   <elementGuidId>fad0413b-9610-4f1b-9338-ae4f3ddaba04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class='mat-checkbox-label'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-checkbox-inner-container</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'mat-checkbox-inner-container']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3bb920cb-c413-4325-b20e-e9165138f0b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-checkbox-inner-container</value>
+      <webElementGuid>d375fc9f-19d6-4dbe-8c0a-78232bc0d3de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-checkbox-3&quot;)/label[@class=&quot;mat-checkbox-layout&quot;]/div[@class=&quot;mat-checkbox-inner-container&quot;]</value>
+      <webElementGuid>4945018d-ccfa-407e-b1bb-8ab5045d07c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-checkbox[@id='mat-checkbox-3']/label/div</value>
+      <webElementGuid>2dbbfefd-b264-4498-9980-dd41a9e10337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Guests'])[1]/following::div[2]</value>
+      <webElementGuid>33e50bf2-2023-4237-9c06-25f712c0d043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select existing contacts'])[1]/following::div[9]</value>
+      <webElementGuid>1a339ec6-3364-4806-8352-bb45cbbfe655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bringing your old and new contacts together!'])[1]/preceding::div[66]</value>
+      <webElementGuid>cbe5fc1a-b46c-4666-b4ee-c53882c5c044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-checkbox/label/div</value>
+      <webElementGuid>330a6cb6-596e-46db-ba72-9ec1f698ea20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

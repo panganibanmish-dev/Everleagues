@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-error_Title is required</name>
+   <tag></tag>
+   <elementGuidId>5465f366-b63e-41e3-989a-8ca0cde943c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-error-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-error[text()=' Title is required ']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//mat-error[@role = 'alert' and (text() = ' Title is required ' or . = ' Title is required ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-error</value>
+      <webElementGuid>e8522e6e-911e-4ba4-9b5a-e51daf63b808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>e1f4c043-d9cb-453f-8741-64e7505876dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-error ng-tns-c110-212 ng-star-inserted</value>
+      <webElementGuid>6d7f54ed-d0ef-4bbb-b4fe-4f51cb94a29e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-error-5</value>
+      <webElementGuid>db02bd6d-1c26-4078-a7d6-7b8d67e2331b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Title is required </value>
+      <webElementGuid>49b4a281-2f2e-4f60-9670-056dd6ca1bfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-error-5&quot;)</value>
+      <webElementGuid>21dba8cc-cccc-411c-9cc1-e7d494df4979</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id='mat-error-5']</value>
+      <webElementGuid>8a5dd2d7-2efa-4832-a039-aa3556c56c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-7-0']/div/app-ezsign-senderdocuments/div/div[2]/table/tr[4]/td/div/mat-form-field/div/div[2]/div/mat-error</value>
+      <webElementGuid>ff7dac8f-8e31-4ffe-bb83-cedbad3fde7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Title'])[1]/following::mat-error[1]</value>
+      <webElementGuid>69a3d481-4759-480e-86a2-7e286982c0e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag and drop or Upload PDF or Word document here'])[1]/following::mat-error[1]</value>
+      <webElementGuid>4d388935-0e24-4be9-a9d4-9f57d7156dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UPLOAD'])[1]/preceding::mat-error[1]</value>
+      <webElementGuid>1130d1b8-f31c-4374-a38b-025b5bdf21ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide Quick Shortcuts'])[1]/preceding::mat-error[1]</value>
+      <webElementGuid>447e2f21-ec80-4bfc-a858-43bc7c41a21b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Title is required']/parent::*</value>
+      <webElementGuid>033ccbec-a519-4404-82d6-fd0dcd2e5be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-error</value>
+      <webElementGuid>5b1cac24-dea2-4d09-b9a6-543e7bd69b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id = 'mat-error-5' and (text() = ' Title is required ' or . = ' Title is required ')]</value>
+      <webElementGuid>961f3db4-cf6c-46e0-aab1-c878757c2ce8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

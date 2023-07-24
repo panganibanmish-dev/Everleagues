@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>toggle_PDF Converter</name>
+   <tag></tag>
+   <elementGuidId>c05dcb56-73cd-4d82-8b32-8bff8d305e97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//label[@for='mat-slide-toggle-9-input']//span)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>df4cddb3-c352-4244-97ff-1d849423d902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1665647237135</value>
+      <webElementGuid>6a01fcb7-b706-471e-88db-83cd95b968ac</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

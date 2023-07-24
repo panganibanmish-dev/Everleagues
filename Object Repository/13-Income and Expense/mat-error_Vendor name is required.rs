@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-error_Vendor name is required</name>
+   <tag></tag>
+   <elementGuidId>ee9d4e64-d4e0-4e12-ad09-5ba53cd69734</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-error[text()=' Vendor name is required ']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//mat-error[@role = 'alert' and (text() = ' Vendor name is required ' or . = ' Vendor name is required ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-error-21</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-error</value>
+      <webElementGuid>e793119f-9d55-488a-a4c8-49e8d6ee4461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>c38b3f0d-dd1f-4df8-afb3-a08eab597ae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-error ng-tns-c110-209 ng-star-inserted</value>
+      <webElementGuid>0e918497-0140-4b62-9981-45f9716122e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-error-21</value>
+      <webElementGuid>61ce2949-9f69-4815-9da9-6f1e1926f41b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Vendor name is required </value>
+      <webElementGuid>1c753f8b-b2e1-48e9-9491-a17506befa97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-error-21&quot;)</value>
+      <webElementGuid>95813bc7-f84e-44bd-ae09-9cb5b464ed1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id='mat-error-21']</value>
+      <webElementGuid>6d1dc5d6-1001-4614-9af7-833a578a469c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-21']/app-iet-addreceipt/div/div/form/mat-form-field/div/div[2]/div/mat-error</value>
+      <webElementGuid>6f3032b7-bd0d-4204-859e-ecd3411eebcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor/Customer Name'])[1]/following::mat-error[1]</value>
+      <webElementGuid>5d85e488-4d38-4d77-8c22-c3b80e0163d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Receipt'])[1]/following::mat-error[1]</value>
+      <webElementGuid>b3aa10f9-b47c-4e73-9b29-08f157bccf44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Type'])[1]/preceding::mat-error[1]</value>
+      <webElementGuid>89e2d197-51ba-40cd-ac63-bb2486d86f8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account type is required'])[1]/preceding::mat-error[1]</value>
+      <webElementGuid>49af001b-ab9e-4369-8584-ed1e34603bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vendor name is required']/parent::*</value>
+      <webElementGuid>937659d6-5d12-4563-95fb-125ac67e817d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-error</value>
+      <webElementGuid>9733c69e-7d5c-40d1-84fd-d2a300e76f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id = 'mat-error-21' and (text() = ' Vendor name is required ' or . = ' Vendor name is required ')]</value>
+      <webElementGuid>2af190e8-ee55-4352-ac11-32805146345d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

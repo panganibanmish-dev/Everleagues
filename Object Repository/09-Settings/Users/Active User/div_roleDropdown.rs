@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_roleDropdown</name>
+   <tag></tag>
+   <elementGuidId>ad84ca88-dc89-44ce-bc56-14b4864738c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@ng-reflect-ng-switch='false'])[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;mat-select-0&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c246-70&quot;]/div[@class=&quot;mat-select-arrow-wrapper ng-tns-c246-70&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-select-arrow-wrapper.ng-tns-c246-70</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e6642736-037c-4260-88b1-da954f6cc9f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-arrow-wrapper ng-tns-c246-70</value>
+      <webElementGuid>09116312-2701-4f92-8015-87464d7e93c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-0&quot;)/div[@class=&quot;mat-select-trigger ng-tns-c246-70&quot;]/div[@class=&quot;mat-select-arrow-wrapper ng-tns-c246-70&quot;]</value>
+      <webElementGuid>abec8340-2e10-4bc6-b318-43e34648af37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='mat-select-0']/div/div[2]</value>
+      <webElementGuid>23ecb1f1-bc93-41f8-89bd-565d4821fbbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client'])[3]/following::div[1]</value>
+      <webElementGuid>2216cac4-55d4-42f3-8664-79368ebf0c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit User Role'])[1]/following::div[8]</value>
+      <webElementGuid>bbbc8d14-58dd-4529-aaca-3a4c8d1685d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[2]/preceding::div[2]</value>
+      <webElementGuid>5e86f425-df13-4ce1-a6ec-a38f5ce9ea30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='None'])[1]/preceding::div[6]</value>
+      <webElementGuid>8bdb5a10-7f94-4538-bfae-cb0aa64d49da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-select/div/div[2]</value>
+      <webElementGuid>a54e83c2-c741-48ab-b908-9d41399bf115</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

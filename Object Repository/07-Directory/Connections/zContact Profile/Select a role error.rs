@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select a role error</name>
+   <tag></tag>
+   <elementGuidId>2b815aba-ab5b-41b8-9f6f-e82687b17296</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-error[(text() = 'Select a role ' or . = 'Select a role ')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//mat-error[@role = 'alert' and (text() = 'Select a role ' or . = 'Select a role ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-error-23</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-error</value>
+      <webElementGuid>f50359af-ff3c-43a6-915c-23925d3b882e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>dc90aba3-d332-44c0-8530-729b426af42d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-error ng-tns-c110-136</value>
+      <webElementGuid>e4c166e7-01f5-467c-8208-d497e81b68c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-error-23</value>
+      <webElementGuid>cb73f8b4-5981-42b7-9242-7bf108a2384a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a role </value>
+      <webElementGuid>1df3a515-b15f-486b-a26f-d58d030f6e4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-error-23&quot;)</value>
+      <webElementGuid>4bdd7341-f848-4c18-b024-bfedddf50355</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id='mat-error-23']</value>
+      <webElementGuid>adfd021f-8133-4b84-8fd8-1f135ccdbd86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-5-0']/div/div/div/div[4]/mat-list/mat-list-item/div/div[3]/span/mat-form-field/div/div[3]/div/mat-error</value>
+      <webElementGuid>ad92b4fc-b24d-4b8e-bbc1-2e3327795f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[2]/following::mat-error[1]</value>
+      <webElementGuid>39ba93a3-a060-42dc-9a46-6982677b6ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/following::mat-error[1]</value>
+      <webElementGuid>03c241f6-b588-416a-8a76-423974300e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Unit'])[1]/preceding::mat-error[1]</value>
+      <webElementGuid>be7217fc-cd44-477f-9b4a-77ab7abc2983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Invitation'])[1]/preceding::mat-error[1]</value>
+      <webElementGuid>9a315aed-5033-4841-b48d-b0c85d431822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select a role']/parent::*</value>
+      <webElementGuid>211379d2-7153-4a41-a4f9-6a80815c4189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-error</value>
+      <webElementGuid>f87c0540-e699-4afb-a497-89994985fd7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id = 'mat-error-23' and (text() = 'Select a role ' or . = 'Select a role ')]</value>
+      <webElementGuid>7c9d062b-ac6d-41b3-8070-5f1aabda286c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

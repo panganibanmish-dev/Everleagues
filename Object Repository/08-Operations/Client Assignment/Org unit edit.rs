@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Org unit edit</name>
+   <tag></tag>
+   <elementGuidId>18e078f2-96bb-4abd-9769-87846214ce78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>mat-icon.mat-icon.notranslate.suffix-icon.material-icons.mat-icon-no-color.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-icon[@class = 'mat-icon notranslate suffix-icon material-icons mat-ligature-font mat-icon-no-color ng-star-inserted' and (text() = 'create' or . = 'create')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//mat-icon[@class = 'mat-icon notranslate suffix-icon material-icons mat-icon-no-color ng-star-inserted' and (text() = 'create' or . = 'create')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>bb6a2eaf-a1bc-4548-b208-d054c2ecafc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6ece245e-2be6-43f8-97ed-a7e01a61a790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate suffix-icon material-icons mat-icon-no-color ng-star-inserted</value>
+      <webElementGuid>2899261d-4698-44d6-a8f6-78d46c7f618f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f6b381e6-7b66-4b29-8c97-c8559418dbbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>create</value>
+      <webElementGuid>5901dc60-944f-4420-b2fa-3c74fefbe463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;input-select-ou-0&quot;)/div[@class=&quot;ng-pristine ng-valid ng-touched&quot;]/mat-icon[@class=&quot;mat-icon notranslate suffix-icon material-icons mat-icon-no-color ng-star-inserted&quot;]</value>
+      <webElementGuid>4b398f4f-7891-46fc-9513-39547aa8cc65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//input-select-ou[@id='input-select-ou-0']/div/mat-icon</value>
+      <webElementGuid>1510cc3b-c37e-4230-aa10-114a3ba4028c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GG TESTER'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>83870f65-6cfc-4f9d-a84c-c06b063278a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>ae9736c7-5029-4c43-bee5-0a29163ed03f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Unit'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>80b1b395-5333-4abf-bd75-28ae7bd99cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='By Employee'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>6c131353-c2a3-416d-964a-aea494183e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input-select-ou/div/mat-icon</value>
+      <webElementGuid>2593fc68-9d2a-40ac-8216-bea665a59fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'create' or . = 'create')]</value>
+      <webElementGuid>b9a5299a-3136-48e4-84d4-d1bae7213381</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

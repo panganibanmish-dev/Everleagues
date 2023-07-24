@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Coworker</name>
+   <tag></tag>
+   <elementGuidId>5b3af064-ca0e-424c-a1bc-175c941bbdcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class = 'td-data-table-cell-content-wrapper' and (text() = 'Co-worker' or . = 'Co-worker')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'td-data-table-cell-content-wrapper' and (text() = 'Coworker' or . = 'Coworker')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>902ef100-a14a-40e2-b80e-e13313673e70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>td-data-table-cell-content-wrapper</value>
+      <webElementGuid>1b17c546-8474-4e96-905c-0cf498ce2afd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Coworker</value>
+      <webElementGuid>83f728c8-edeb-4eb5-90d3-4652d3b38f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c361-36 ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;white-container ng-star-inserted&quot;]/div[@class=&quot;user-container-body ng-tns-c574-5&quot;]/app-invited-user-table[@class=&quot;ng-tns-c574-5&quot;]/div[@class=&quot;container-body&quot;]/perfect-scrollbar[1]/div[@class=&quot;ps&quot;]/div[@class=&quot;ps-content&quot;]/td-data-table[@class=&quot;ng-untouched ng-valid ng-dirty&quot;]/div[@class=&quot;td-data-table-scrollable&quot;]/table[@class=&quot;td-data-table&quot;]/tbody[@class=&quot;td-data-table-body&quot;]/tr[@class=&quot;td-data-table-row ng-star-inserted&quot;]/td[@class=&quot;td-data-table-cell ng-star-inserted&quot;]/div[@class=&quot;td-data-table-cell-content-wrapper&quot;]</value>
+      <webElementGuid>fa3636d8-a076-4937-bbc7-654ee0c87787</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-1']/div/div/div[2]/app-invited-user-table/div[2]/perfect-scrollbar/div/div/td-data-table/div/table/tbody/tr[3]/td[3]/div</value>
+      <webElementGuid>75d03922-4a74-4667-9923-ce1d1cb12081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='autotester06@mailinator.com'])[1]/following::div[1]</value>
+      <webElementGuid>0c2a0a26-469c-43b0-8dbc-be594b315c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CSV test1'])[1]/following::div[2]</value>
+      <webElementGuid>d82045cc-67db-4cff-841c-10daa9a0caad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invited'])[3]/preceding::div[1]</value>
+      <webElementGuid>70b7abda-a71b-4c54-b08f-0f6234dfcd36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]/div</value>
+      <webElementGuid>5bff038e-d823-4422-b5ff-439da1860914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Coworker' or . = 'Coworker')]</value>
+      <webElementGuid>42fe6341-792a-4535-8102-6652165dd954</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

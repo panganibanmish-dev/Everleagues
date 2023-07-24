@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-error_Receipt amount is required</name>
+   <tag></tag>
+   <elementGuidId>6221c361-473e-4ed8-ae14-780f07cdbd8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-error[text()=' Receipt amount is required ']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//mat-error[@role = 'alert' and (text() = ' Receipt amount is required ' or . = ' Receipt amount is required ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-error-23</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-error</value>
+      <webElementGuid>e65769a4-97f3-4135-8e53-1b7e901160f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>24c5b5ff-6f71-4024-ac6c-58c989bd88a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-error ng-tns-c110-212 ng-star-inserted</value>
+      <webElementGuid>95968c3c-4660-473b-ac50-8114b5d0a776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-error-23</value>
+      <webElementGuid>30c3d8ff-cde5-45e8-8e89-203ab0dc0a57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Receipt amount is required </value>
+      <webElementGuid>3cadc318-c1bf-4864-8bdb-c335377f8b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-error-23&quot;)</value>
+      <webElementGuid>0e80ab97-4825-4307-ab3f-d6d647b52dd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id='mat-error-23']</value>
+      <webElementGuid>287ffd30-6606-4d7d-a34e-a031437e4e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-21']/app-iet-addreceipt/div/div/form/mat-form-field[4]/div/div[2]/div/mat-error</value>
+      <webElementGuid>3b86cf77-dae9-4156-b83a-068b8aac8f08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::mat-error[1]</value>
+      <webElementGuid>556fa675-c6fd-48e9-a549-bfaeacd409a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount'])[1]/following::mat-error[1]</value>
+      <webElementGuid>7406c625-404f-4a7d-98a5-7dc460e1b00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Required'])[1]/preceding::mat-error[1]</value>
+      <webElementGuid>46509179-5b12-48ba-a411-f6fc673b9eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Receipt amount is required']/parent::*</value>
+      <webElementGuid>851a3d26-12a3-4d42-9d45-a130226351c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-error</value>
+      <webElementGuid>613811a1-6696-4a6e-874c-a4aecf7993b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-error[@id = 'mat-error-23' and (text() = ' Receipt amount is required ' or . = ' Receipt amount is required ')]</value>
+      <webElementGuid>672cb3ec-4007-46b8-9dba-c488eed5566d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
